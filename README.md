@@ -1,19 +1,9 @@
 # evaluacion-tecnica-newcombin
+# Manuel Esquivel Aleman
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
+### Ejecutar el proyecto
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Dependencias
+npm i v-mask
+npm i axios  
