@@ -6,4 +6,5 @@ npm run serve
 
 ### Dependencias
 npm i v-mask
+
 npm i axios  
